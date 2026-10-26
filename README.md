@@ -44,6 +44,6 @@ This project presents an interactive quiz testing core knowledge in modern softw
    ```
 
 ## Author
-- **Abhishek Singh** (Enrolment No: )
+- **Abhishek Singh** (Enrolment No:25BCON1202 )
 - Department of Computer Science & Engineering, JECRC University
 - GitHub: [@retroabhi007](https://github.com/retroabhi007)
